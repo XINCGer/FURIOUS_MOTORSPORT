@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 72c93e4f187cc614291429b3f1d40f35
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Object1
+    100002: Object10
+    100004: Object11
+    100006: Object12
+    100008: Object13
+    100010: Object14
+    100012: Object15
+    100014: Object16
+    100016: Object17
+    100018: Object18
+    100020: Object19
+    100022: Object2
+    100024: Object20
+    100026: Object21
+    100028: Object3
+    100030: Object4
+    100032: Object5
+    100034: Object6
+    100036: Object7
+    100038: Object8
+    100040: Object9
+    100042: //RootNode
+    400000: Object1
+    400002: Object10
+    400004: Object11
+    400006: Object12
+    400008: Object13
+    400010: Object14
+    400012: Object15
+    400014: Object16
+    400016: Object17
+    400018: Object18
+    400020: Object19
+    400022: Object2
+    400024: Object20
+    400026: Object21
+    400028: Object3
+    400030: Object4
+    400032: Object5
+    400034: Object6
+    400036: Object7
+    400038: Object8
+    400040: Object9
+    400042: //RootNode
+    2300000: Object1
+    2300002: Object10
+    2300004: Object11
+    2300006: Object12
+    2300008: Object13
+    2300010: Object14
+    2300012: Object15
+    2300014: Object16
+    2300016: Object17
+    2300018: Object18
+    2300020: Object19
+    2300022: Object2
+    2300024: Object20
+    2300026: Object21
+    2300028: Object3
+    2300030: Object4
+    2300032: Object5
+    2300034: Object6
+    2300036: Object7
+    2300038: Object8
+    2300040: Object9
+    3300000: Object1
+    3300002: Object10
+    3300004: Object11
+    3300006: Object12
+    3300008: Object13
+    3300010: Object14
+    3300012: Object15
+    3300014: Object16
+    3300016: Object17
+    3300018: Object18
+    3300020: Object19
+    3300022: Object2
+    3300024: Object20
+    3300026: Object21
+    3300028: Object3
+    3300030: Object4
+    3300032: Object5
+    3300034: Object6
+    3300036: Object7
+    3300038: Object8
+    3300040: Object9
+    4300000: Object11
+    4300002: Object14
+    4300004: Object10
+    4300006: Object9
+    4300008: Object8
+    4300010: Object7
+    4300012: Object6
+    4300014: Object15
+    4300016: Object13
+    4300018: Object16
+    4300020: Object17
+    4300022: Object18
+    4300024: Object19
+    4300026: Object20
+    4300028: Object5
+    4300030: Object21
+    4300032: Object4
+    4300034: Object3
+    4300036: Object2
+    4300038: Object1
+    4300040: Object12
+    6400000: Object1
+    6400002: Object10
+    6400004: Object11
+    6400006: Object12
+    6400008: Object13
+    6400010: Object14
+    6400012: Object15
+    6400014: Object16
+    6400016: Object17
+    6400018: Object18
+    6400020: Object19
+    6400022: Object2
+    6400024: Object20
+    6400026: Object21
+    6400028: Object3
+    6400030: Object4
+    6400032: Object5
+    6400034: Object6
+    6400036: Object7
+    6400038: Object8
+    6400040: Object9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

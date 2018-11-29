@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MetalDoor_Diff 6
+  m_Shader: {fileID: 4800000, guid: 7560e0fcfe3b7cf4fab9247d65b4dba9, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: 6086a987025dda443930c98510b61cae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecTex:
+        m_Texture: {fileID: 2800000, guid: 78fae633ded474d4bbdf7e12a27d3889, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CubePower: 17.7
+    - _RimPower: 2.9
+    - _Shininess: 0.11
+    - _SpecPower: 4
+    - _SpecUVTile: 1
+    m_Colors:
+    - _Color: {r: 0.29411763, g: 0.29411763, b: 0.29411763, a: 1}
+    - _RimColor: {r: 0.42647058, g: 0.42647058, b: 0.42647058, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
