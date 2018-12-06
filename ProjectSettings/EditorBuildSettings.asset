@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: da7e689e6d2df5247905055172443148
+  - enabled: 1
+    path: Assets/Scenes/RaceTracks/RaceTrack1.unity
+    guid: 7aadb93ad643ae648ba05d125a0e02b5
+  - enabled: 1
+    path: Assets/Scenes/RaceTracks/RaceTrack2.unity
+    guid: 651db8d3c78e5d146959f5f184d1c0bf
+  - enabled: 1
+    path: Assets/Scenes/RaceTracks/RaceTrack3.unity
+    guid: 1440a6b3f2666b34183c3d3d8b20878c
+  - enabled: 1
+    path: Assets/Scenes/RaceTracks/RaceTrack4.unity
+    guid: 8236388230546d040b5e8cfd58937108
+  - enabled: 1
+    path: Assets/Scenes/RaceTracks/RaceTrack5.unity
+    guid: fb6fefef448cf8c44bcc76168671b7d0
   m_configObjects: {}
